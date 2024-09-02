@@ -6,10 +6,6 @@ Welcome to **RateMyRestroom**, a full-stack web application designed to help use
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -43,11 +39,3 @@ The Reviews Page displays all the submitted reviews, sorted by the latest entrie
 - **Database**: MySQL
 - **Cloud**: AWS (EC2, RDS)
 - **API**: Google Maps API for location services
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/RateMyRestroom.git
