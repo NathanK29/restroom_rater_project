@@ -1,6 +1,6 @@
 # RateMyRestroom
 
-Welcome to **RateMyRestroom**, a full-stack web application designed to help users rate and review restrooms on a university campus. The app is built using Spring Boot, JavaScript, Java, MySQL, and AWS, providing a seamless and user-friendly experience for finding and reviewing campus restrooms.
+**RateMyRestroom** is a full-stack web application that allows users to rate and review restrooms on a university campus. Built with Spring Boot, JavaScript, Java, MySQL, and AWS, it provides an intuitive and efficient platform for locating and reviewing campus restrooms.
 
 ## Table of Contents
 - [Features](#features)
@@ -9,28 +9,33 @@ Welcome to **RateMyRestroom**, a full-stack web application designed to help use
 
 ## Features
 
-- **User-Friendly Interface**: Intuitive design using JavaScript, HTML, and CSS.
-- **Google Maps Integration**: Easily locate restrooms on the campus map.
-- **Real-Time Reviews**: Submit and view restroom ratings and reviews in real-time.
-- **Secure Backend**: Built with Spring Boot, leveraging MySQL and AWS for secure data management.
-- **REST APIs**: Facilitates seamless communication between the frontend and backend.
+- **User-Friendly Interface**: Designed with JavaScript, HTML, and CSS for ease of use.
+- **Google Maps Integration**: Quickly find restrooms on the campus map.
+- **Real-Time Reviews**: Submit and view ratings and reviews instantly.
+- **Secure Backend**: Developed with Spring Boot, utilizing MySQL and AWS for robust data management.
+- **REST APIs**: Ensure smooth communication between the frontend and backend.
 
 ## Screenshots
 
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/c293c2ed-149c-4c81-93c5-09870a710d60)
 
-The Home Page features buttons that direct the user to a search by location using the Google Maps API or search by name page.
+The Home Page provides options to search for restrooms by location using the Google Maps API or by name.
 
-### Create a Review Page
-![Review Page](https://github.com/user-attachments/assets/687935ad-1b7e-48d9-b0ec-2f5ec2791acd)
+### Map Page
+![Map Page](https://github.com/user-attachments/assets/dd335afe-681e-4b62-a1ff-e80ccbd0f192)
 
-The Review Page allows users to submit their ratings and reviews for specific restrooms. Users can provide feedback based on accessibility, cleanliness, availability, and overall experience.
+The Map Page allows users to click on restroom location pins to get directions or open the review page for that specific restroom.
 
 ### Reviews Page
 ![Reviews Page](https://github.com/user-attachments/assets/6e962c19-467a-4aec-b2fe-7b1ca6ee19df)
 
-The Reviews Page displays all the submitted reviews, sorted by the latest entries. Users can browse through all reviews to find the best-rated restrooms.
+The Reviews Page displays all submitted reviews, sorted by the most recent. Users can browse through the reviews to find the highest-rated restrooms.
+
+### Create a Review Page
+![Review Page](https://github.com/user-attachments/assets/687935ad-1b7e-48d9-b0ec-2f5ec2791acd)
+
+The Create a Review Page allows users to submit ratings and reviews for specific restrooms, focusing on aspects like accessibility, cleanliness, availability, and overall experience.
 
 ## Technologies Used
 
