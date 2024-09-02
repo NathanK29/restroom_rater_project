@@ -24,12 +24,12 @@ Welcome to **RateMyRestroom**, a full-stack web application designed to help use
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/c293c2ed-149c-4c81-93c5-09870a710d60)
 
-The Home Page provides an overview of the application, featuring the main navigation and a search function for locating restrooms.
+The Home Page features buttons that direct the user to a search by location using the Google Maps API or search by name page.
 
-### Review Page
+### Create a Review Page
 ![Review Page](https://github.com/user-attachments/assets/687935ad-1b7e-48d9-b0ec-2f5ec2791acd)
 
-The Review Page allows users to submit their ratings and reviews for specific restrooms. Users can provide feedback based on cleanliness, availability, and overall experience.
+The Review Page allows users to submit their ratings and reviews for specific restrooms. Users can provide feedback based on accessibility, cleanliness, availability, and overall experience.
 
 ### Reviews Page
 ![Reviews Page](https://github.com/user-attachments/assets/6e962c19-467a-4aec-b2fe-7b1ca6ee19df)
