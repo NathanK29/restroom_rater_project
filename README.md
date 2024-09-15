@@ -9,11 +9,10 @@
 
 ## Features
 
-- **User-Friendly Interface**: Designed with JavaScript, HTML, and CSS for ease of use.
-- **Google Maps Integration**: Quickly find restrooms on the campus map.
-- **Real-Time Reviews**: Submit and view ratings and reviews instantly.
-- **Secure Backend**: Developed with Spring Boot, utilizing MySQL and AWS for robust data management.
-- **REST APIs**: Ensure smooth communication between the frontend and backend.
+- **User-Friendly Interface**: Designed the front end using JavaScript, HTML, and CSS.
+- **Google Maps Integration**: Enabled users to quickly find restrooms on the campus map powered by the Google Maps API.
+- **Reviews**: Users can submit reviews, including a brief written portion, tags, and a numerical rating out of five.
+- **Secure Backend**: Developed with Spring Boot, utilizing MySQL and AWS for robust data management..
 
 ## Screenshots
 
